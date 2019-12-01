@@ -1,0 +1,24 @@
+>epoch=0, lrate=0.500, error=8.097
+>epoch=1, lrate=0.500, error=1.823
+>epoch=2, lrate=0.500, error=0.669
+>epoch=3, lrate=0.500, error=0.388
+>epoch=4, lrate=0.500, error=0.269
+>epoch=5, lrate=0.500, error=0.204
+>epoch=6, lrate=0.500, error=0.164
+>epoch=7, lrate=0.500, error=0.136
+>epoch=8, lrate=0.500, error=0.117
+>epoch=9, lrate=0.500, error=0.102
+>epoch=10, lrate=0.500, error=0.090
+>epoch=11, lrate=0.500, error=0.081
+>epoch=12, lrate=0.500, error=0.073
+>epoch=13, lrate=0.500, error=0.067
+>epoch=14, lrate=0.500, error=0.061
+>epoch=15, lrate=0.500, error=0.057
+>epoch=16, lrate=0.500, error=0.053
+>epoch=17, lrate=0.500, error=0.049
+>epoch=18, lrate=0.500, error=0.046
+>epoch=19, lrate=0.500, error=0.044
+layer 0 : [{'output': 0.9996549263711683, 'weights': [0.6793080198464975, 0.6054961900535493, 0.6341922859719243], 'delta': 1.3994512808900669e-06}, {'output': 0.999749842168031, 'weights': [0.9249914607533166, 0.25581321609426094, 0.2974983005590497], 'delta': 7.193949974727531e-07}]
+
+layer 1 : [{'output': 0.04413765217264137, 'weights': [-0.9827890607847583, -0.8154004546598586, -1.280446415353796], 'delta': -0.0018621463517341993}, {'output': 0.04478955773887952, 'weights': [-1.1639317328385845, -0.710583984082064, -1.1888935693880383], 'delta': -0.001916251949897753}]
+
